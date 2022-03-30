@@ -1,0 +1,16 @@
+#logo {
+    width: 250px;
+    min-height: 250px;
+    border-radius: 125px;
+    background-image: url(beo.jpg);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0%;
+    width: 100vw;
+    min-height: 100vh;
+    background: #1e1e1e;
+}
